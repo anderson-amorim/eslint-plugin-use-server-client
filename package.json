@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "Simple eslint plugin that enforces 'use server' or 'use client' at the begining of files",
   "main": "index.js",
+  "license": "MIT",
+  "author": "Anderson de Amorim",
   "scripts": {
     "test": "./node_modules/.bin/mocha tests/**/*.js"
   },
