@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    "use-client": require("./useClient"),
-    "use-server": require("./useServer"),
+    "use-client": require("./src/useClient"),
+    "use-server": require("./src/useServer"),
   },
 };
