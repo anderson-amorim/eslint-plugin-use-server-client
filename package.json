@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-use-server-client",
+  "version": "0.0.1",
+  "description": "Simple eslint plugin that enforces 'use server' or 'use client' at the begining of files",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests/**/*.js"
+  },
+  "peerDependencies": {
+    "eslint": "^8.48.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "mocha": "^8.0.1"
+  },
+  "dependencies": {
+    "@typescript-eslint/utils": "^6.7.0"
+  }
+}
