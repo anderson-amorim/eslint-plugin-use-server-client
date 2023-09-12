@@ -1,5 +1,5 @@
 # eslint-plugin-use-server-client
-Enforces the use of 'use server' or 'use client' at the begining of files.
+Enforces the use of `'use server';` or `'use client';` at the begining of files.
 
 ## Installation
 ```bash
