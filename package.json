@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-use-server-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple eslint plugin that enforces 'use server' or 'use client' at the begining of files",
   "main": "index.js",
   "license": "MIT",
